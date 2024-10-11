@@ -1,8 +1,6 @@
 # Verificador-de-Duplicidades-em-Arquivos-Excel
 Verificador de Duplicidades em Arquivos Excel
 
-Aqui está o README para o projeto em Português e Inglês, pronto para ser colocado no GitHub.
-
 README (Português)
 Verificador de Duplicidades em Arquivos Excel
 Este projeto consiste em uma aplicação desenvolvida em Python para verificar duplicidades de datas de vencimento em planilhas Excel. O programa usa uma interface gráfica baseada em Tkinter, permite a conversão de arquivos .xls para .xlsx, e busca por registros duplicados na coluna de datas de vencimento para cada login.
